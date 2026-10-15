@@ -1,6 +1,10 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
     <application
+<<<<<<< HEAD
         android:label="kantin_kampus_bloc"
+=======
+        android:label="kantin_kampus_cubit"
+>>>>>>> 5aed83f92c1f271b0247cab7ebf35277ed418b99
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity

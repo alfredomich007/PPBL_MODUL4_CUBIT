@@ -27,7 +27,11 @@ int APIENTRY wWinMain(_In_ HINSTANCE instance, _In_opt_ HINSTANCE prev,
   FlutterWindow window(project);
   Win32Window::Point origin(10, 10);
   Win32Window::Size size(1280, 720);
+<<<<<<< HEAD
   if (!window.Create(L"kantin_kampus_bloc", origin, size)) {
+=======
+  if (!window.Create(L"kantin_kampus_cubit", origin, size)) {
+>>>>>>> 5aed83f92c1f271b0247cab7ebf35277ed418b99
     return EXIT_FAILURE;
   }
   window.SetQuitOnClose(true);

@@ -5,7 +5,11 @@
 	<key>CFBundleDevelopmentRegion</key>
 	<string>$(DEVELOPMENT_LANGUAGE)</string>
 	<key>CFBundleDisplayName</key>
+<<<<<<< HEAD
 	<string>Kantin Kampus Bloc</string>
+=======
+	<string>Kantin Kampus Cubit</string>
+>>>>>>> 5aed83f92c1f271b0247cab7ebf35277ed418b99
 	<key>CFBundleExecutable</key>
 	<string>$(EXECUTABLE_NAME)</string>
 	<key>CFBundleIdentifier</key>
@@ -13,7 +17,11 @@
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
+<<<<<<< HEAD
 	<string>kantin_kampus_bloc</string>
+=======
+	<string>kantin_kampus_cubit</string>
+>>>>>>> 5aed83f92c1f271b0247cab7ebf35277ed418b99
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>

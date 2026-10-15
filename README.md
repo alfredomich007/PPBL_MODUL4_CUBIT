@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # kantin_kampus_bloc
+=======
+# kantin_kampus_cubit
+>>>>>>> 5aed83f92c1f271b0247cab7ebf35277ed418b99
 
 A new Flutter project.
 

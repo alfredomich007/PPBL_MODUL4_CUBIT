@@ -8,7 +8,11 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
 
+<<<<<<< HEAD
 import 'package:kantin_kampus_bloc/main.dart';
+=======
+import 'package:kantin_kampus_cubit/main.dart';
+>>>>>>> 5aed83f92c1f271b0247cab7ebf35277ed418b99
 
 void main() {
   testWidgets('Counter increments smoke test', (WidgetTester tester) async {

@@ -1,6 +1,11 @@
 {
+<<<<<<< HEAD
     "name": "kantin_kampus_bloc",
     "short_name": "kantin_kampus_bloc",
+=======
+    "name": "kantin_kampus_cubit",
+    "short_name": "kantin_kampus_cubit",
+>>>>>>> 5aed83f92c1f271b0247cab7ebf35277ed418b99
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

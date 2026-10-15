@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 name: kantin_kampus_bloc
+=======
+name: kantin_kampus_cubit
+>>>>>>> 5aed83f92c1f271b0247cab7ebf35277ed418b99
 description: "A new Flutter project."
 # The following line prevents the package from being accidentally published to
 # pub.dev using `flutter pub publish`. This is preferred for private packages.

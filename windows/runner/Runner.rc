@@ -90,12 +90,21 @@ BEGIN
         BLOCK "040904e4"
         BEGIN
             VALUE "CompanyName", "com.example" "\0"
+<<<<<<< HEAD
             VALUE "FileDescription", "kantin_kampus_bloc" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
             VALUE "InternalName", "kantin_kampus_bloc" "\0"
             VALUE "LegalCopyright", "Copyright (C) 2026 com.example. All rights reserved." "\0"
             VALUE "OriginalFilename", "kantin_kampus_bloc.exe" "\0"
             VALUE "ProductName", "kantin_kampus_bloc" "\0"
+=======
+            VALUE "FileDescription", "kantin_kampus_cubit" "\0"
+            VALUE "FileVersion", VERSION_AS_STRING "\0"
+            VALUE "InternalName", "kantin_kampus_cubit" "\0"
+            VALUE "LegalCopyright", "Copyright (C) 2026 com.example. All rights reserved." "\0"
+            VALUE "OriginalFilename", "kantin_kampus_cubit.exe" "\0"
+            VALUE "ProductName", "kantin_kampus_cubit" "\0"
+>>>>>>> 5aed83f92c1f271b0247cab7ebf35277ed418b99
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END
